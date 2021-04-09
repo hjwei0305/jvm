@@ -1,2 +1,2 @@
 # jvm
-[!zzz](./picture/zhuzhu.jpg)
+![zzz](./picture/zhuzhu.jpg)
