@@ -1,0 +1,12 @@
+*.iml
+/.idea/
+/logs/**
+*/target/
+*/*/target/
+.classpath
+.project
+*.prefs
+*.log
+**/.settings
+*/.sts4-cache
+*/.mvn
